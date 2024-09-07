@@ -1,4 +1,5 @@
 ### Hi there, I'm <a href="https://bilalsaeed.me" target="_blank">Bilal</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+[![bsaeed's 42 stats](https://badge.mediaplus.ma/darkblue/bsaeed?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ### How to reach me: <a href="bilalsaeedahmed1@gmail.com">bilalsaeedahmed1@gmail.com</a>
 
@@ -32,7 +33,6 @@
 
 ##
 
-[![bsaeed's 42 stats](https://badge.mediaplus.ma/darkblue/bsaeed?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 📈 **My GitHub Stats:"**
 
