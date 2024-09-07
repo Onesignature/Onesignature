@@ -32,7 +32,7 @@
 
 ##
 
-[![bsaeed's 42 stats](https://badge.mediaplus.ma/greenbinary/bsaeed?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![bsaeed's 42 stats](https://badge.mediaplus.ma/darkblue/bsaeed?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 📈 **My GitHub Stats:"**
 
