@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=230&section=header&text=%3CBilal%20Saeed%20/%3E&fontColor=58a6ff&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20%C2%B7%20AI%20Architect%20%C2%B7%20Dubai%2C%20UAE&descAlignY=55&descSize=18&descColor=8b949e&animation=twinkling)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=230&section=header&text=%E2%9F%A8Bilal%20Saeed%20%2F%E2%9F%A9&fontColor=58a6ff&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20%C2%B7%20AI%20Architect%20%C2%B7%20Dubai%2C%20UAE&descAlignY=55&descSize=18&descColor=8b949e&animation=fadeIn" width="100%" />
 
 <br>
 
@@ -278,4 +278,4 @@ mission_log = {
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" width="100%" />
