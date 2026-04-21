@@ -166,8 +166,8 @@ const bilal = {
 
 <div align="center">
 
-| | Event | Result |
-|:-:|:----|----|----|
+|   | Event | Result |
+|:-:|:------|:------|
 | `▸` | **Innovate with AI Hackathon 2024** – Abu Dhabi Executive Office | Gov AI Solution |
 | `▸` | **Taríq Rìaz Hackathon 2024** – MOL UAE | Top 3 Finish |
 | `▸` | **InnovateX Hackathon 2024** – AI71 | Highly Rated |
