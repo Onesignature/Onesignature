@@ -132,18 +132,18 @@ mission_log = {
 
 ## The numbers
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Onesignature&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=171513&title_color=B8400A&icon_color=D9551A&text_color=E5DCC9&ring_color=B8400A" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Onesignature&hide_border=true&background=171513&stroke=B8400A&ring=B8400A&fire=D9551A&currStreakLabel=B8400A&sideLabels=F2ECE0&dates=E5DCC9&currStreakNum=F2ECE0&sideNums=F2ECE0&dateColor=B8400A" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=wolfofclaude&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=171513&title_color=B8400A&icon_color=D9551A&text_color=E5DCC9&ring_color=B8400A" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=wolfofclaude&hide_border=true&background=171513&stroke=B8400A&ring=B8400A&fire=D9551A&currStreakLabel=B8400A&sideLabels=F2ECE0&dates=E5DCC9&currStreakNum=F2ECE0&sideNums=F2ECE0&dateColor=B8400A" />
 
 <br/>
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onesignature&show_icons=true&hide_border=true&layout=compact&langs_count=10&bg_color=171513&title_color=B8400A&text_color=E5DCC9" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolfofclaude&show_icons=true&hide_border=true&layout=compact&langs_count=10&bg_color=171513&title_color=B8400A&text_color=E5DCC9" />
 
 <br/>
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Onesignature&bg_color=171513&color=B8400A&line=D9551A&point=F2ECE0&area=true&area_color=B8400A&hide_border=true&title_color=B8400A" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wolfofclaude&bg_color=171513&color=B8400A&line=D9551A&point=F2ECE0&area=true&area_color=B8400A&hide_border=true&title_color=B8400A" width="95%"/>
 
 </div>
 
@@ -165,7 +165,7 @@ mission_log = {
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Onesignature&style=for-the-badge&color=B8400A&labelColor=171513&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=wolfofclaude&style=for-the-badge&color=B8400A&labelColor=171513&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
